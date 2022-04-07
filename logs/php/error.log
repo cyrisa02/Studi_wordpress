@@ -1,0 +1,1 @@
+[07-Apr-2022 15:02:57 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ';' or ',' in /home/cyril/Local Sites/studisite/app/public/wp-content/plugins/monplugin/monplugin.php on line 46

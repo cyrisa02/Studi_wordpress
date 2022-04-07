@@ -1,3 +1,8 @@
+test-> Easy Wordpress 
+studi -> studi_site
+
+
+
 Sécurité
 mise à jour à vérifier 
 mot de passe de l'admin  
@@ -192,5 +197,10 @@ Pour modifier le style, j'ai créé le fichier custom.css attention il faut acti
 dans le dossier app/public/wp-content/themes/bondossier
 
 dans admin c'est dans la rubrique "Apparence"
+
+les hooks d'action peuvent s'appeler entre eux d'un fichier à un autre
+
+les hook de filtres :  permet d'effectuer des traitements sur des données, entre la base de données et le navigateur.<=> eventlistener 
+apply_filters 
 
 
